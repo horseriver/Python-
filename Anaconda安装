@@ -19,3 +19,17 @@ deactivate
 --------------------------------------------------------------------------------
 Anaconda在已有python3.6的情况下安装python2.7:
 https://blog.csdn.net/tiankong_/article/details/83001976
+
+
+Pycharm安装
+1、首先去Pycharm官网，或者直接输入网址：http://www.jetbrains.com/pycharm/download/#section=windows，下载PyCharm安装包，
+根据自己电脑的操作系统进行选择，对于windows系统选择下图的框框所包含的安装包。
+2、选择Windows系统的专业版，将其下载到本地
+3、双击下载的安装包，进行安装， 
+4、选择安装目录，Pycharm需要的内存较多，建议将其安装在D盘或者E盘，不建议放在系统盘C盘：
+5、进入激活界面，选择第二个License server，在License server address中随意输入下面两个注册码中的任意一个即可，
+Pycharm新注册码1：http://idea.liyang.io
+或pycharm新注册码2：http://xidea.online，之后点击OK，便可以激活Pycharm了。
+
+
+
